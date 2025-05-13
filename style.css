@@ -125,10 +125,12 @@
 
 .project-row {
   display: flex;
+
   flex-wrap: wrap;
   justify-content: center;
   gap: 2rem;
-  margin-top: 2rem;
+  margin-top: 2rem auto;
+    padding: 0 1rem;
 }
 
 .project-card {
