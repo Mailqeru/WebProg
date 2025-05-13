@@ -123,9 +123,9 @@
   height: 100%;
 }
 .project-card {
-  width: 80%; /* or a fixed size like 600px */
+  width: 50%; 
   margin: 20px auto;
-  padding: 20px;
+  padding: 15px;
   border: 1px solid #ddd;
   border-radius: 10px;
   background-color: #f9f9f9;
